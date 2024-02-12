@@ -27,15 +27,11 @@ I'm a seventh semester systems engineering student. I'm passionate about technol
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 <h3> 🤝🏻 &nbsp;Contact with Me </h3>
-<p align="center">
-<a href="https://www.instagram.com/jerobedoya1520/?hl=es"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jerobedoya1520_-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:jeronimobedoya1520@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jeronimobedoya1520@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/jer%C3%B3nimo-bedoya-bedoya-538318267/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-</p>
 
 <p align="center">
 <a href="[https://www.linkedin.com/in/paulina-mu%C3%B1oz-saldarriaga-0226401b0/](https://www.linkedin.com/in/paulina-mu%C3%B1oz-saldarriaga-0226401b0/)" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
 <a href="mailto:paulinasaldarriaga34@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 
 
 
