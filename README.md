@@ -1,5 +1,5 @@
 ### Hi everyone! I'm Paulina. 👋🏻👩‍💻
-
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc1YjYwM3FxYW5tMjJqdWlmcmd1c2h3Zzl5ejEwY294enI3dHBvMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6sUCb6laWgfxnrrG4N/giphy.gif)
 
 I'm a seventh semester systems engineering student. I'm passionate about technology world. I have experience developing web applications using different technologies such as React and Nuxt for frontend develop, and nodejs for backend develop.
 
