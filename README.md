@@ -1,5 +1,5 @@
   ### Hi everyone! I'm Paulina. 👋🏻👩‍💻
-  ![clideo_editor_fb5abe23a8944d02aa00e06f5f3e214e](https://github.com/PaulinaMS2/PaulinaMS2/assets/91279554/c5ee8968-2910-4904-aeef-a9716be09d7e)
+  ![WhatsApp-Video-2024-02-11-at-9 21 31-PM (1)](https://github.com/PaulinaMS2/PaulinaMS2/assets/91279554/c9a24c7f-2ff4-46f8-a0a0-b3f372278e9c)
 
 I'm a seventh semester systems engineering student. I'm passionate about technology world. I have experience developing web applications using different technologies such as React and Nuxt for frontend develop, and nodejs for backend develop.
 
