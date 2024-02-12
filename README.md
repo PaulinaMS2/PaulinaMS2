@@ -1,5 +1,7 @@
-  ### Hi everyone! I'm Paulina. 👋🏻👩‍💻
-  ![WhatsApp-Video-2024-02-11-at-9 21 31-PM (1)](https://github.com/PaulinaMS2/PaulinaMS2/assets/91279554/c9a24c7f-2ff4-46f8-a0a0-b3f372278e9c)
+<div style="text-align:center">
+     ### Hi everyone! I'm Paulina. 👋🏻👩‍💻
+     ![WhatsApp-Video-2024-02-11-at-9 21 31-PM (1)](https://github.com/PaulinaMS2/PaulinaMS2/assets/91279554/c9a24c7f-2ff4-46f8-a0a0-b3f372278e9c)
+</div>
 
 I'm a seventh semester systems engineering student. I'm passionate about technology world. I have experience developing web applications using different technologies such as React and Nuxt for frontend develop, and nodejs for backend develop.
 
