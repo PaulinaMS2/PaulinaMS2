@@ -6,7 +6,8 @@
 
 I'm a seventh semester systems engineering student. I'm passionate about technology world. I have experience developing web applications using different technologies such as React and Nuxt for frontend develop, and nodejs for backend develop.
 
-<h3> 🤔 About Me </h3>
+<h3> 🤔 &nbsp;About Me </h3>
+
 - 🎓 &nbsp; University of Medellin's student.
 - 🌱 &nbsp; Learning more about Web development, software engineering and AI.
 - 💬 &nbsp; I like animals, music and dancing.
