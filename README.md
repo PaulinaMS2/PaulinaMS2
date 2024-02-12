@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi everyone! I'm Paulina
 
+
+**I'm a seventh semester systems engineering student. I'm passionate about technology world. I have experience developing web applications using different technologies such as React and Nuxt for frontend develop, and nodejs for backend develop.
 <!--
-**PaulinaMS2/PaulinaMS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
