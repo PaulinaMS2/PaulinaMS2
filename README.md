@@ -1,5 +1,5 @@
 ### Hi everyone! I'm Paulina. 👋🏻👩‍💻
-![]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc1YjYwM3FxYW5tMjJqdWlmcmd1c2h3Zzl5ejEwY294enI3dHBvMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6sUCb6laWgfxnrrG4N/giphy.gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b7611wv9429t34jcyg1pp1luquqjn1ribzry15enc6dok&ep=v1_gifs_search&rid=giphy.gif&ct=g))
+[![](https://github.com/PaulinaMS2/PaulinaMS2/assets/91279554/12447d80-2b92-4e6c-ab59-9c333a312aaa)
 
 I'm a seventh semester systems engineering student. I'm passionate about technology world. I have experience developing web applications using different technologies such as React and Nuxt for frontend develop, and nodejs for backend develop.
 
