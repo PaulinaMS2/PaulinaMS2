@@ -1,6 +1,6 @@
 
-<h2>Hi everyone! I'm Paulina. 👋🏻👩‍💻</h2>
 <p align="center">
+<h2>Hi everyone! I'm Paulina. 👋🏻👩‍💻</h2>
 <img src = "https://github.com/PaulinaMS2/PaulinaMS2/assets/91279554/c9a24c7f-2ff4-46f8-a0a0-b3f372278e9c" width="250" height="250">
 </p>
 
