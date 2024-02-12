@@ -29,7 +29,7 @@ I'm a seventh semester systems engineering student. I'm passionate about technol
 <h3> 🤝🏻 &nbsp;Contact with Me </h3>
 
 <p align="center">
-<a href="[https://www.linkedin.com/in/paulina-mu%C3%B1oz-saldarriaga-0226401b0/](https://www.linkedin.com/in/paulina-mu%C3%B1oz-saldarriaga-0226401b0/)" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
+<a href="https://www.linkedin.com/in/paulina-mu%C3%B1oz-saldarriaga-0226401b0/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
 <a href="mailto:paulinasaldarriaga34@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
