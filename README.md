@@ -4,7 +4,7 @@
 <img src = "https://github.com/PaulinaMS2/PaulinaMS2/assets/91279554/c9a24c7f-2ff4-46f8-a0a0-b3f372278e9c" width="200" height="200">
 </p>
 
-###Full Stack Software Developer | React • TypeScript • FastAPI • Node.js • PostgreSQL • Docker
+### Full Stack Software Developer | React • TypeScript • FastAPI • Node.js • PostgreSQL • Docker
 
 <h3> 🤔 &nbsp;About Me </h3>
 
