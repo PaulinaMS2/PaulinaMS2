@@ -4,7 +4,7 @@
 <img src = "https://github.com/PaulinaMS2/PaulinaMS2/assets/91279554/c9a24c7f-2ff4-46f8-a0a0-b3f372278e9c" width="200" height="200">
 </p>
 
-Full Stack Software Developer | React • TypeScript • FastAPI • Node.js • PostgreSQL
+###Full Stack Software Developer | React • TypeScript • FastAPI • Node.js • PostgreSQL • Docker
 
 <h3> 🤔 &nbsp;About Me </h3>
 
@@ -63,16 +63,14 @@ ISA Intercolombia
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 
 <h4>Currently Learning</h4>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
-![Software Architecture](https://img.shields.io/badge/Software_Architecture-5C2D91?style=for-the-badge)&nbsp;
-<h3> 🤝🏻 &nbsp;Contact with Me </h3>
+
+<h3> 🌐 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/paulina-mu%C3%B1oz-saldarriaga-0226401b0/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
